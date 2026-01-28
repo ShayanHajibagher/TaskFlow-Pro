@@ -667,10 +667,10 @@ gantt
     title نقشه راه توسعه
     dateFormat  YYYY-MM-DD
     section ویژگی‌ها
-    همگام‌سازی ابری        :done, cloud, 2025-02-01, 30d
-    اشتراک‌گذاری تیمی      :active, team, 2025-03-01, 45d
-    اعلان‌های هوشمند       :notif, 2025-04-15, 30d
-    تحلیل و گزارشات        :analytics, 2025-05-01, 60d
+    همگام‌سازی ابری        :done, cloud, 202x-xx-xx, xxd
+    اشتراک‌گذاری تیمی      :active, team, 202x-xx-xx, xxd
+    اعلان‌های هوشمند       :notif, 202x-xx-xx, xxd
+    تحلیل و گزارشات        :analytics, 202x-xx-xx, xxd
 ```
 
 </div>
