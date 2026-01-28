@@ -716,7 +716,7 @@ gantt
 
 ```mermaid
 mindmap
-  root)آینده(TaskFlow Pro(
+  (root)آینده(TaskFlow Pro)
     🎨 طراحی
       تم‌های جدید
       انیمیشن‌های پیشرفته
