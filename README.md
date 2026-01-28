@@ -239,6 +239,8 @@ graph TD
 🔄 به اشتراک گذاری با دوستان
 📝 بازخورد و ایده‌های سازنده
 🎨 مشارکت در توسعه (با مجوز)
+
+<a href="https://www.coffeebede.com/shayan_hajibagher"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 ```
 
 </div>
